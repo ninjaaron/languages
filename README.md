@@ -14,7 +14,7 @@ To run one of the benchmarks:
   You should see output something like:
   
   ```
-  $ bash ../run
+  $ bash ../run.sh
   C = 0.77
   Go = 2.07
   Node = 0.79
